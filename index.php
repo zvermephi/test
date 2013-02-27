@@ -2,6 +2,15 @@
 
 echo "123123";
 
-sdfsdfsdfs
+asdas
+dasd
+asd
+addcslashes(ARRAY_CASTasdsd, $charlist)aas
+
+asd
+sd
+sd
+sd
+sd
 ##
 ?>
